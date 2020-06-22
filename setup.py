@@ -5,7 +5,7 @@ API_URL = f'https://api.telegram.org/bot{TOKEN}/sendMessage'
 requests_payload = {
     'chat_id': 380314062, #dfddfdfdfdfd
     'text': 'Hello', #dfdfdfdlhjlkhl
-    'reply_to_message_id': 4 #comit
+    'reply_to_message_id': 4 #comitds
 }
 
 r = requests.get(API_URL, data=requests_payload)
