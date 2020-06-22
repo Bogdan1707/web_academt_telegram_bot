@@ -1,0 +1,74 @@
+{
+  'ok': True,
+  'result': [
+    {
+      'update_id': 674365161,
+      'message': {
+        'message_id': 3,
+        'from': {
+          'id': 380314062,
+          'is_bot': False,
+          'first_name': 'Bogdan',
+          'last_name': 'Fedorov',
+          'username': 'Bogusz2020',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 380314062,
+          'first_name': 'Bogdan',
+          'last_name': 'Fedorov',
+          'username': 'Bogusz2020',
+          'type': 'private'
+        },
+        'date': 1592579754,
+        'text': 'ghbdtn'
+      }
+    },
+    {
+      'update_id': 674365162,
+      'message': {
+        'message_id': 4,
+        'from': {
+          'id': 380314062,
+          'is_bot': False,
+          'first_name': 'Bogdan',
+          'last_name': 'Fedorov',
+          'username': 'Bogusz2020',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 380314062,
+          'first_name': 'Bogdan',
+          'last_name': 'Fedorov',
+          'username': 'Bogusz2020',
+          'type': 'private'
+        },
+        'date': 1592579756,
+        'text': 'привет'
+      }
+    },
+    {
+      'update_id': 674365163,
+      'message': {
+        'message_id': 5,
+        'from': {
+          'id': 380314062,
+          'is_bot': False,
+          'first_name': 'Bogdan',
+          'last_name': 'Fedorov',
+          'username': 'Bogusz2020',
+          'language_code': 'ru'
+        },
+        'chat': {
+          'id': 380314062,
+          'first_name': 'Bogdan',
+          'last_name': 'Fedorov',
+          'username': 'Bogusz2020',
+          'type': 'private'
+        },
+        'date': 1592579783,
+        'text': 'test mes'
+      }
+    }
+  ]
+}
